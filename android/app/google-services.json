@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611556826987",
+    "project_id": "socialsignin-6eb46",
+    "storage_bucket": "socialsignin-6eb46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611556826987:android:a5c386e285b6984786f62e",
+        "android_client_info": {
+          "package_name": "com.example.google_signin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQvga-hPm5MSHLIF4lbjNMiE8boYG1nQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
